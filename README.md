@@ -45,9 +45,9 @@ Aqui encontram-se todas as instruções necessárias para a instalação de todo
 
 # 🗃 Histórico de lançamentos
 
-- 0.1.0 - 16/08/2022
+- 0.2.0 - 16/08/2022
    - Atualização do ReadMe 
-- 0.0.1 - 12/08/2022
+- 0.1.0 - 12/08/2022
    - Primeira versão dos documentos
 
 # 📋 Licença/License
