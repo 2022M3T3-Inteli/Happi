@@ -21,9 +21,9 @@ O time de operações da Rappi identificou o crescimento no número de churn dos
 # 📁 Estrutura de pastas
 
 |--> documentos <br>
-  &emsp;| T3_G5_V1_Prediction_System_document.pdf <br>
- &emsp;| T3_G5_V1_Prediction_System_document.docx <br>
- | --> outros <br>
+&emsp;| T3_G5_V1_Prediction_System_document.pdf <br>
+&emsp;| T3_G5_V1_Prediction_System_document.docx <br>
+&emsp;|--> outros <br>
 |--> imagens <br>
 |--> src <br>
 | readme.md <br>
