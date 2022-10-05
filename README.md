@@ -28,7 +28,16 @@ O time de operações da Rappi identificou o crescimento no número de churn dos
 
 ## 📁 Estrutura de pastas
 
--  Dentre os arquivos presentes na raiz do projeto, definem-se:
+Dentre os arquivos presentes na raiz do projeto, definem-se:
+
+- <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
+
+- <b>documentos</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada <b>outros</b> onde estão presentes aqueles documentos complementares.
+
+- <b>notebooks</b>: todos os Jupyter Notebooks criados na plataforma Colab para desenvolvimento do projeto.<br>
+
+<br>
++ <b>Ao clicar nos referentes ícones, será redirecionado à determinada pasta do GitHub:<b>
 
    -  <a href="https://github.com/2022M3T3/Projeto5/tree/main/Documentos">📂</a> <b>documentos</b> <br>
       -  📂 <b>Outros</b> <br>
@@ -39,14 +48,6 @@ O time de operações da Rappi identificou o crescimento no número de churn dos
 
    -  readme.md<br>
 
-Dentre os arquivos presentes na raiz do projeto, definem-se:
-
-- <b>readme.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
-
-- <b>documentos</b>: aqui estarão todos os documentos do projeto. Há também uma pasta denominada <b>outros</b> onde estão presentes aqueles documentos complementares.
-
-- <b>notebooks</b>: todos os Jupyter Notebooks criados na plataforma Colab para desenvolvimento do projeto.
-
 ## 💻 Execução dos projetos
 
 Todos os notebooks do projeto tem o resultado de execução das células visíveis no próprio repositório Github.
@@ -56,6 +57,8 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 ## 🗃 Histórico de lançamentos
 
+-  0.4.0 - 05/10/2022
+   -  Implementação dos notebooks e atualização do ReadMe
 -  0.3.0 - 16/09/2022
    -  Atualização geral do ReadMe e das pastas 
 -  0.2.0 - 16/08/2022
