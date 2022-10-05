@@ -20,7 +20,7 @@
 - <a href="linkedin.com/in/gutopompeo">Luiz Augusto Pompeo de Camargo Franco Ferreira</a> 
 - <a href="linkedin.com/in/pedrocrezende">Pedro de Carvalho Rezende</a>
 - <a href="linkedin.com/in/thainá-lima-169177232">Thainá de Deus Lima</a> 
-- <a href="https://github.com/ViniciusSouza25">Vinicius Souza Santos</a>
+- <a href="linkedin.com/in/vinicius-souza-santos">Vinicius Souza Santos</a>
 
 ## 📝 Descrição
 
@@ -68,7 +68,7 @@ Para replicação (reexecução dos códigos), o botão `Open in Colab` disponí
 
 ## 📋 Licença/License
 
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.inteli.edu.br/">Inteli</a>, Iago Medeiros Tavares, Isabela Amado Rocha, Kathlyn Diwan, Luiz Augusto Pompeo de Camargo Franco Ferreira, Pedro de Carvalho Rezende, Thainá de Deus Lima and Vinicius Souza Santos, is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
+<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Spidus/Teste_Final_1">MODELO GIT INTELI</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://www.inteli.edu.br/">Inteli</a>, <a href="linkedin.com/in/iago-tavares-b10244149">Iago Medeiros Tavares</a>, <a href="linkedin.com/in/isabela-amado-da-rocha-0314b4237">Isabela Amado Rocha</a>, <a href="linkedin.com/in/kathlyn-diwan-0a0189232">Kathlyn Diwan</a>, <a href="linkedin.com/in/gutopompeo">Luiz Augusto Pompeo de Camargo Franco Ferreira</a>, <a href="linkedin.com/in/pedrocrezende">Pedro de Carvalho Rezende</a>, <a href="linkedin.com/in/thainá-lima-169177232">Thainá de Deus Lima</a> and <a href="linkedin.com/in/vinicius-souza-santos">Vinicius Souza Santos</a>, is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
 
 ## 🎓 Referências
 
