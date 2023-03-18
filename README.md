@@ -32,14 +32,10 @@ Dentre os arquivos presentes na raiz do projeto, definem-se:
 - <b>notebooks</b>: todos os Jupyter Notebooks criados na plataforma Colab para desenvolvimento do projeto.<br>
 
 <br>
-+ <b>Ao clicar nos referentes ícones, será redirecionado à determinada pasta do GitHub:<b>
+      -  T3_G5_V03_Web_application_document.pdf<br>
+      - T3_G5_V03_Web_application_document.docx<br>
 
-   -  <a href="https://github.com/2022M3T3/Projeto5/tree/main/Documentos">📂</a> <b>documentos</b> <br>
-      -  📂 <b>Outros</b> <br>
-      -  <a href="https://github.com/2022M3T3/Projeto5/blob/main/Documentos/T3_G5_V03_Prediction_System.pdf.pdf"><img src="https://user-images.githubusercontent.com/99209356/174968401-abc5cae1-7a1e-4f06-aca6-c859c993c038.svg" width="18px" height="18px"></a> T3_G5_V03_Web_application_document.pdf<br>
-      -  <a href="https://github.com/2022M3T3/Projeto5/blob/main/Documentos/T3_G5_V03_Prediction_System.docx.docx"><img src="https://user-images.githubusercontent.com/99209356/174968001-e5dfbc94-09e5-43d3-a5ab-60a684e673b3.svg" width="18px" height="18px"></a> T3_G5_V03_Web_application_document.docx<br>
-
-   -  <a href="https://github.com/2022M3T3/Projeto5/tree/main/notebooks"><img src="https://user-images.githubusercontent.com/99209356/190716468-3ae8f59f-7d04-4f1a-addc-3a7e0cca786e.svg" width="18px" height="18px"></a> <b>notebooks</b><br>
+   -   <b>notebooks</b><br>
 
    -  readme.md<br>
 
